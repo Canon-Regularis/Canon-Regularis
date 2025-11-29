@@ -67,8 +67,10 @@ Systems should be debuggable by construction.
 
 If you’d like to discuss systems, numerical methods, computational finance, or research-driven software:
 
-**KCL Email: matthew.miezaniec@kcl.ac.uk**
-**Edinburgh Email: M.Miezaniec@sms.ed.ac.uk**
-**Work Email: matthewmiezaniec1@gmail.com**
-**KCPC Link: info@kcpc.orthant.co.uk**
-**Orthant Link: info@orthant.co.uk**
+- **KCL Email: matthew.miezaniec@kcl.ac.uk**
+- **Edinburgh Email: M.Miezaniec@sms.ed.ac.uk**
+- **Work Email: matthewmiezaniec1@gmail.com**
+- **KCPC Link: info@kcpc.orthant.co.uk**
+- **Orthant Link: info@orthant.co.uk**
+
+---
