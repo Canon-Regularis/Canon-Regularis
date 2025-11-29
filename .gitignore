@@ -1,0 +1,11 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+
+# Python artifacts (in case you later add scripts)
+__pycache__/
+*.pyc
