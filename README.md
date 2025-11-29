@@ -20,7 +20,7 @@ I’m a CS student focused on strengthening the fundamentals that high-assurance
 - **Systems software, compilers, and backend architectures**  
 
 My engineering bias is toward designs that admit analysis.  
-If a system can be reasoned about — in terms of correctness, latency, or scaling behaviour — then it’s worth building.
+If a system can be reasoned about (in terms of correctness, latency, or scaling behaviour), then it’s worth building.
 
 ---
 
