@@ -6,7 +6,7 @@ My work sits at the intersection of **systems engineering, mathematical modellin
 
 I tend to approach engineering problems with a research mindset: build simple invariants, reason formally when possible, validate empirically when necessary, and prefer architectures whose performance characteristics are predictable rather than accidental.
 
-Fun-fact about me: I was permitted double marticulation at both Edinburgh University and KCL concurrently to major in Mathematics, Statistics, Computer Science and to minor in Computer Science at one point.
+Fun-fact about me: I was permitted double marticulation at both Edinburgh University and KCL concurrently to major in Mathematics, Statistics, alongside Computer Science and to minor in Computer Science at one point.
 
 This is actually one of my multiple accounts that you can find in the wild!!!
 
