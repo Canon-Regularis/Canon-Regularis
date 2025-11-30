@@ -8,6 +8,7 @@ I tend to approach engineering problems with a research mindset: build simple in
 
 Fun-fact about me: I was permitted double marticulation at both Edinburgh University and KCL concurrently to major in Mathematics, Statistics, Computer Science and to minor in Computer Science at one point.
 
+Important Note: This is actually one of my multiple accounts that you can find in the wild!!!
 ---
 
 ## About Me
