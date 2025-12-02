@@ -74,5 +74,3 @@ If you’d like to discuss systems, numerical methods, computational finance, or
 - **Work Email: matthewmiezaniec1@gmail.com**
 - **KCPC Link: info@kcpc.orthant.co.uk**
 - **Orthant Link: info@orthant.co.uk**
-
----
