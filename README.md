@@ -2,7 +2,7 @@
 > ### Contact
 >
 > **General enquiries:** matthewmiezaniec1@gmail.com  
-> **Institutional:** matthewmiezaniec@kcl.ac.uk
+> **Institutional:** matthew.miezaniec@kcl.ac.uk
 >
 > Please note that I may be slow to respond, as I am often extremely busy.
 >
